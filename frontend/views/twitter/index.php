@@ -23,7 +23,7 @@ $this->title = '鸣叫';
             <div class="col-md-offset-3 col-lg-6">
                 <h2>标题</h2>
                 <p><?=$value->content;?></p>
-                <p><a class="btn btn-default" href="http://www.yiiframework.com/doc/">扩展阅读&raquo;</a></p>
+                <p><a class="btn btn-default" href="javascript:void()">扩展阅读&raquo;</a></p>
             </div>
             <?php endforeach;?>
 
